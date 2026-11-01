@@ -1,0 +1,6 @@
+{
+  "name": "Auto-Trading Bot Dashboard",
+  "description": "A sleek, dark-mode dashboard for managing automated trading bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
